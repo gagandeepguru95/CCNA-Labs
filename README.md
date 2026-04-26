@@ -9,11 +9,13 @@ Each folder corresponds to a specific topic and contains the Packet Tracer lab f
 ## About
 
 I am currently preparing for the Cisco CCNA 200-301 certification.
-This repo is where I store my lab work, track my progress, and build a record of what I have practiced hands-on.
+This repo contains my hands-on lab practice files as I work through 
+the syllabus.
 
-Tools used:
-- Cisco Packet Tracer (for lab simulations)
-- Anki (for flashcard revision)
+Learning resources I am using:
+- Cisco Packet Tracer for lab simulations
+- Anki for flashcard revision
+- Jeremy's IT Lab (free CCNA course) for video lessons and lab exercises
 
 ---
 
