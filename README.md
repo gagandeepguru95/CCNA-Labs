@@ -19,18 +19,6 @@ Learning resources I am using:
 
 ---
 
-## Labs Completed
-
-| # | Topic | Folder |
-|---|-------|--------|
-| 01 | IPv4 Addressing | [Lab-01-IPv4-Addressing](./Lab-01-IPv4-Addressing/) |
-| 02 | Switch Interfaces | [Lab-02-Switch-Interfaces](./Lab-02-Switch-Interfaces/) |
-| 03 | Speed and Duplex | [Lab-03-Speed-and-Duplex](./Lab-03-Speed-and-Duplex/) |
-
-> This table will keep growing as I complete more labs.
-
----
-
 ## Topics Covered So Far
 
 - IPv4 addressing — binary, dotted decimal, address classes, network and broadcast addresses
