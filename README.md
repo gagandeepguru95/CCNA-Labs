@@ -19,13 +19,6 @@ Learning resources I am using:
 
 ---
 
-## Topics Covered So Far
-
-- IPv4 addressing — binary, dotted decimal, address classes, network and broadcast addresses
-- Switch interfaces — interface status, show commands, interface configuration
-- Speed and duplex — autonegotiation, half duplex vs full duplex, duplex mismatch
-
----
 
 ## Folder Structure
 
